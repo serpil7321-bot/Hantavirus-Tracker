@@ -1,8 +1,0 @@
-[
-  {"Country": "USA", "Lat": 37.09, "Lon": -95.71, "Signals": 93},
-  {"Country": "Mexico", "Lat": 23.63, "Lon": -102.55, "Signals": 8},
-  {"Country": "Canada", "Lat": 56.13, "Lon": -106.34, "Signals": 3},
-  {"Country": "Bolivia", "Lat": -16.29, "Lon": -63.58, "Signals": 12},
-  {"Country": "Chile", "Lat": -35.67, "Lon": -71.54, "Signals": 15},
-  {"Country": "Saudi Arabia", "Lat": 23.88, "Lon": 45.07, "Signals": 2}
-]
